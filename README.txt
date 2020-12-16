@@ -1,0 +1,2 @@
+Este programa simula una biblioteca de una universida en la que se pueden retirar libros y proyectos de estudiantes, así como la habilidad de ver la información de estos y sus autores.
+Se incluye el debido sistema de registro sobre el estudiante que retiro el documento y el control del tiempo en que debe devolverlo.
